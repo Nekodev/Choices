@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Choices", "Choices\Choices.csproj", "{F7DC3E86-DBE8-41CD-8166-E9AA2BCCAD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Choices.UITests", "Choices.UITests\Choices.UITests.csproj", "{9340A7F0-0458-4386-A51E-868370CA8665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9340A7F0-0458-4386-A51E-868370CA8665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9340A7F0-0458-4386-A51E-868370CA8665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9340A7F0-0458-4386-A51E-868370CA8665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9340A7F0-0458-4386-A51E-868370CA8665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DC3E86-DBE8-41CD-8166-E9AA2BCCAD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DC3E86-DBE8-41CD-8166-E9AA2BCCAD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DC3E86-DBE8-41CD-8166-E9AA2BCCAD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DC3E86-DBE8-41CD-8166-E9AA2BCCAD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
